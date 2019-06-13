@@ -1,0 +1,8 @@
+{
+    "Id": 3300,
+    "Name": "My Custom Furniture",
+    "MaxStacks": 50,
+    "BuyPrice": 900,
+    "Rarety": 1,
+    "MyItemCategory": 10
+}
